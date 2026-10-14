@@ -15,7 +15,7 @@ Display detection results using a Python-based application.
 
 Explore the use of AI/ML for smart monitoring and traffic management.
 
-Technologies Used
+- Technologies Used
 
 Programming Language: Python
 
@@ -29,7 +29,7 @@ User Interface: Tkinter
 
 Hardware Platform: Raspberry Pi 5 and camera module
 
-Hardware Requirements
+- Hardware Requirements
 
 Raspberry Pi 5 (8GB RAM)
 Camera module
@@ -37,7 +37,7 @@ MicroSD card
 Power supply or compatible power bank
 Drone with a camera for aerial image/video capture
 
-Software Requirements
+- Software Requirements
 
 Python
 Ultralytics YOLO
@@ -46,7 +46,7 @@ Pillow
 NumPy
 Tkinter
 
-Key Features
+- Key Features
 
 Image and video input for analysis.
 
@@ -58,7 +58,7 @@ Counting of detected object classes.
 
 Python-based graphical user interface.
 
-Project Workflow
+- Project Workflow
 
 Capture aerial images or video footage using a drone.
 
@@ -70,7 +70,7 @@ Detect and count people and vehicles.
 
 Display the detection results for crowd and traffic analysis.
 
-Future Scope
+- Future Scope
 
 Improve detection performance under different lighting and weather conditions.
 
