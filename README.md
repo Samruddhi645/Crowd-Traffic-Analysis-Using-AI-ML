@@ -1,11 +1,11 @@
 # Crowd-Traffic-Analysis-Using-AI-ML
 
-Project Overview
+- Project Overview
 
 This project focuses on analyzing crowd density and traffic in aerial images captured using a drone. It uses Artificial Intelligence (AI), Machine Learning (ML), and computer vision techniques to detect and count people and vehicles in images and video footage.
 The system aims to support crowd monitoring and traffic analysis by identifying areas with high concentrations of people or vehicles.
 
-Objectives
+- Objectives
 
 Detect people and vehicles in drone imagery.
 
