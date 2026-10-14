@@ -18,10 +18,15 @@ Explore the use of AI/ML for smart monitoring and traffic management.
 Technologies Used
 
 Programming Language: Python
+
 AI/ML Model: YOLOv8
+
 Computer Vision: OpenCV
+
 Image Processing: Pillow, NumPy
+
 User Interface: Tkinter
+
 Hardware Platform: Raspberry Pi 5 and camera module
 
 Hardware Requirements
