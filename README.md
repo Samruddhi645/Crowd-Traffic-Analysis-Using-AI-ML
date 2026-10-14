@@ -8,8 +8,11 @@ The system aims to support crowd monitoring and traffic analysis by identifying 
 Objectives
 
 Detect people and vehicles in drone imagery.
+
 Analyze crowd density and traffic conditions.
+
 Display detection results using a Python-based application.
+
 Explore the use of AI/ML for smart monitoring and traffic management.
 
 Technologies Used
@@ -53,16 +56,23 @@ Python-based graphical user interface.
 Project Workflow
 
 Capture aerial images or video footage using a drone.
+
 Provide the image or video as input to the application.
+
 Process the input using the trained YOLO model.
+
 Detect and count people and vehicles.
+
 Display the detection results for crowd and traffic analysis.
 
 Future Scope
 
 Improve detection performance under different lighting and weather conditions.
+
 Explore real-time crowd and traffic monitoring.
+
 Add density-based alerts for high-crowd or high-traffic areas.
+
 Improve object tracking and traffic analysis capabilities.
 
 
